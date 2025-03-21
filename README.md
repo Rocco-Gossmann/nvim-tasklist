@@ -3,7 +3,9 @@ This plugin aims to make managing your task a bit easier, by providing tools, th
 handling Check-Lists easier.
 
 # Demo
-// Add video here via Github
+https://github.com/user-attachments/assets/a7a8abde-f96c-4e63-a885-3aa9e69666cf
+
+
 
 # Installation
 ## Lazy.nvim
