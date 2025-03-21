@@ -35,7 +35,7 @@ adds a `@started` timestamp to the current or highlighted line(s)
 adds a `@canceled` timestamp to the current or highlighted line(s)
 
 ## `:TaskDone`
-adds a `@canceled` timestamp to the current or highlighted line(s)
+adds a `@done` timestamp to the current or highlighted line(s)
 
 # Disclaimer:
 To adress the Elephant in the Room.
